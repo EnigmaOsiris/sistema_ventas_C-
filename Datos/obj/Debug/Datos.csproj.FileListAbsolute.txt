@@ -1,0 +1,10 @@
+C:\Users\misael\Documents\Visual Studio 2015\Projects\SisVentas\Datos\bin\Debug\Datos.dll
+C:\Users\misael\Documents\Visual Studio 2015\Projects\SisVentas\Datos\bin\Debug\Datos.pdb
+C:\Users\misael\Documents\Visual Studio 2015\Projects\SisVentas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\misael\Documents\Visual Studio 2015\Projects\SisVentas\Datos\obj\Debug\Datos.dll
+C:\Users\misael\Documents\Visual Studio 2015\Projects\SisVentas\Datos\obj\Debug\Datos.pdb
+C:\Users\Enigma\Desktop\sistema\SisVentas\Datos\bin\Debug\Datos.dll
+C:\Users\Enigma\Desktop\sistema\SisVentas\Datos\bin\Debug\Datos.pdb
+C:\Users\Enigma\Desktop\sistema\SisVentas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Enigma\Desktop\sistema\SisVentas\Datos\obj\Debug\Datos.dll
+C:\Users\Enigma\Desktop\sistema\SisVentas\Datos\obj\Debug\Datos.pdb
